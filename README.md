@@ -6,13 +6,13 @@ This repository provides most used German vocabulary for professionals in AI, da
 
 | **S.No.** | **Verb**           | **Meaning (English)**        |  **Example Sentences** |
 | --------- | ------------------ | ---------------------------- | ---------------------- |
-| 1   | abbrechen        | to cancel, to terminate              | **1**. Wenn das Modell während des Trainings keine Verbesserungen zeigt, kann es sinnvoll sein, das Training **abzubrechen** und die Hyperparameter anzupassen. <br> (If the model shows no improvement during training, it may be useful to stop the training and adjust the hyperparameters.)<br> **2**. Wenn die Datenqualität nicht den Anforderungen entspricht, sollten Sie den ETL-Prozess **abbrechen** und die Datenquellen überprüfen. <br> (If the data quality does not meet the requirements, you should stop the ETL process and review the data sources.)<br> **3**. Das Experiment wurde aufgrund eines Fehlers in den Berechnungen **abgebrochen**.<br> (The experiment was terminated due to an error in the computations.) |
+| 1   | abbrechen        | to cancel, to terminate              | **1**. Wenn das Modell während des Trainings keine Verbesserungen zeigt, kann es sinnvoll sein, das Training **abzubrechen** und die Hyperparameter anzupassen. <br> (If the model shows no improvement during training, it may be useful to stop the training and adjust the hyperparameters.)<br> **2**. Wenn die Datenqualität nicht den Anforderungen entspricht, sollten Sie den ETL-Prozess **abbrechen** und die Datenquellen überprüfen. <br> (If the data quality does not meet the requirements, you should stop the ETL process and review the data sources.)<br> **3**. Das Experiment wurde aufgrund eines Fehlers in den Berechnungen **abgebrochen**.<br> (The experiment was terminated due to an error in the computations.) <br> **4**. Falls die API-Anfrage zu lange dauert, können Sie den Prozess **abbrechen**, um Zeit und Ressourcen zu sparen. <br> (If the API request takes too long, you can cancel the process to save time and resources.) <br> **5**. Die Datenvorverarbeitung wurde **abgebrochen**, da der Speicherplatz auf dem Server erschöpft war.<br> (The data preprocessing was stopped because the server ran out of storage space.)|
 | 2   | abfragen         | to query                             | |
 | 3   | abrufen          | to retrieve, to fetch                | |
 | 4   | abschätzen       | to estimate                          | |
 | 5   | abschließen      | to complete                          | |
 | 6   | abspeichern      | to save                              | |
-| 7   | aktualisieren    | to update                            | |
+| 7   | aktualisieren    | to update                            | | 
 | 8   | analysieren      | to analyze                           | |
 | 9   | anpassen         | to customize                         | |
 | 10  | anwenden         | to apply                             | |
